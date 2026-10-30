@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "BulkBuy",
+    "slug": "bulkbuy",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bulkbuy.marketplace"
+    },
+    "android": {
+      "package": "com.bulkbuy.marketplace",
+      "adaptiveIcon": {
+        "backgroundColor": "#f8fafc"
+      }
+    }
+  }
+}
